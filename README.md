@@ -7,10 +7,10 @@ namely their Huffman Encoding algorithm.
 To use this compressor, you can type in the following commands:
 `
 java-algs4 BurrowsWheeler - < abra.txt | java-algs4 edu.princeton.cs.algs4.HexDump 16
-`
+``
 
 This should give an output such as:
-`
+``
 00 00 00 03 41 52 44 21 52 43 41 41 41 41 42 42
 128 bits
-`
+``
