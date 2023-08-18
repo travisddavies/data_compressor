@@ -1,6 +1,6 @@
 # Wheels Burrow Data Compressor
 This algorith is an implementation of the Wheels Burrow Data Compressor,
-popularly used in compression technologies such as **gzip**. This implementation
+popularly used in compression technologies such as **bzip2**. This implementation
 is built on top of the shoulders of the Giants Robert Sedgewick and Kevin Wayne,
 namely their Huffman Encoding algorithm.
 
